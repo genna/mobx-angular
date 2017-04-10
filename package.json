@@ -1,6 +1,6 @@
 {
-  "name": "mobx-angular",
-  "version": "1.4.1",
+  "name": "wfw-mobx-angular",
+  "version": "1.4.1-fix28",
   "description": "Angular connector to MobX (2 and above)",
   "jsnext:main": "dist/mobx-angular.js",
   "module": "dist/mobx-angular.js",
@@ -50,6 +50,7 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@types/jasmine": "2.5.37",
+    "@types/lodash": "4.14.55",
     "angular-cli": "1.0.0-beta.19-3",
     "codelyzer": "2.0.0-beta.4",
     "core-js": "^2.4.1",
